@@ -106,20 +106,6 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} Arunkumar V. All rights reserved.
           </p>
 
-          <p
-            style={{
-              fontFamily: "var(--font-body)",
-              fontSize: "0.75rem",
-              color: "var(--col-faint)",
-              fontStyle: "italic",
-              textAlign: "right",
-              maxWidth: "50ch",
-              lineHeight: 1.5,
-            }}
-          >
-            Submitted as part of Apple Developer Academy @ BINUS application
-            &mdash; May 2026
-          </p>
         </div>
       </div>
     </footer>

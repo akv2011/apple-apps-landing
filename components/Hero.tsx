@@ -52,7 +52,7 @@ export default function Hero() {
       >
         {/* Section label */}
         <p className="section-label reveal delay-0" style={{ marginBottom: "1.75rem" }}>
-          Portfolio&nbsp;&nbsp;/&nbsp;&nbsp;Apple Developer Academy @ BINUS Application
+          Portfolio&nbsp;&nbsp;/&nbsp;&nbsp;Native macOS apps showcase
         </p>
 
         {/* Main headline */}

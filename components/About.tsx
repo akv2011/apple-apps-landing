@@ -142,13 +142,7 @@ export default function About() {
                   lineHeight: "1.75",
                 }}
               >
-                I am Arunkumar V, an independent developer applying to the{" "}
-                <strong
-                  style={{ color: "var(--col-text)", fontWeight: 600 }}
-                >
-                  Apple Developer Academy @ BINUS
-                </strong>
-                . My focus is on Swift and the Apple platform ecosystem,
+                I am Arunkumar V, an independent developer focused on Swift and the Apple platform ecosystem,
                 specifically the intersection of native macOS app architecture,
                 on-device machine learning with MLX, and the emerging capabilities
                 unlocked by Apple Silicon. I believe software should feel
