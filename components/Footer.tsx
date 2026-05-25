@@ -42,7 +42,7 @@ export default function Footer() {
               fontStyle: "italic",
             }}
           >
-            Aniket
+            Arunkumar V
           </span>
 
           {/* GitHub links */}
@@ -103,7 +103,7 @@ export default function Footer() {
               color: "var(--col-muted)",
             }}
           >
-            &copy; {new Date().getFullYear()} Aniket. All rights reserved.
+            &copy; {new Date().getFullYear()} Arunkumar V. All rights reserved.
           </p>
 
           <p

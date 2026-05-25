@@ -29,7 +29,7 @@ export default function About() {
           }}
           className="about-grid"
         >
-          {/* Left column — label + pillars */}
+          {/* Left column, label + pillars */}
           <div style={{ maxWidth: "280px" }}>
             <p
               className="section-label reveal delay-0"
@@ -110,7 +110,7 @@ export default function About() {
             </div>
           </div>
 
-          {/* Right column — text */}
+          {/* Right column, text */}
           <div style={{ maxWidth: "640px" }}>
             <h2
               id="about-heading"
@@ -142,13 +142,13 @@ export default function About() {
                   lineHeight: "1.75",
                 }}
               >
-                I am Aniket, an independent developer applying to the{" "}
+                I am Arunkumar V, an independent developer applying to the{" "}
                 <strong
                   style={{ color: "var(--col-text)", fontWeight: 600 }}
                 >
                   Apple Developer Academy @ BINUS
                 </strong>
-                . My focus is on Swift and the Apple platform ecosystem —
+                . My focus is on Swift and the Apple platform ecosystem,
                 specifically the intersection of native macOS app architecture,
                 on-device machine learning with MLX, and the emerging capabilities
                 unlocked by Apple Silicon. I believe software should feel
@@ -164,7 +164,7 @@ export default function About() {
                   lineHeight: "1.75",
                 }}
               >
-                Humanizer and Voice_ are not experiments — they are finished,
+                Humanizer and Voice_ are not experiments, they are finished,
                 usable tools I built to solve problems I actually had. Both
                 demonstrate the same conviction: that privacy-first{" "}
                 <span

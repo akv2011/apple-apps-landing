@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 /* ─────────────────────────────────────────────────────────────────────────────
-   DESIGN TOKENS — CSS custom properties
+   DESIGN TOKENS, CSS custom properties
 ───────────────────────────────────────────────────────────────────────────── */
 :root {
   /* Palette */
@@ -15,7 +15,7 @@
   --col-muted:    #7a7268;   /* secondary / meta text */
   --col-faint:    #3d3930;   /* very faint decorative text */
 
-  /* Jade accent — desaturated, refined */
+  /* Jade accent, desaturated, refined */
   --col-jade:     #4d8c6f;
   --col-jade-dim: #3a6b54;
   --col-jade-glow:#5ba882;
@@ -26,7 +26,7 @@
   --font-display: 'Fraunces', Georgia, serif;
   --font-body:    'Inter Tight', 'Helvetica Neue', sans-serif;
 
-  /* Spacing rhythm — 8px base */
+  /* Spacing rhythm, 8px base */
   --space-1: 0.5rem;
   --space-2: 1rem;
   --space-3: 1.5rem;
@@ -70,7 +70,7 @@ body {
 }
 
 /* ─────────────────────────────────────────────────────────────────────────────
-   GRAIN OVERLAY — faint noise texture over the whole page
+   GRAIN OVERLAY, faint noise texture over the whole page
 ───────────────────────────────────────────────────────────────────────────── */
 body::before {
   content: '';
@@ -201,7 +201,7 @@ body::before {
 }
 
 /* ─────────────────────────────────────────────────────────────────────────────
-   SECTION LABEL — small overline category text
+   SECTION LABEL, small overline category text
 ───────────────────────────────────────────────────────────────────────────── */
 .section-label {
   font-family: var(--font-body);
@@ -242,7 +242,7 @@ body::before {
   opacity: 1;
 }
 
-/* Card variant B — slightly lighter surface for contrast */
+/* Card variant B, slightly lighter surface for contrast */
 .app-card-b {
   background: var(--col-surface2);
 }
@@ -480,7 +480,7 @@ body::before {
 }
 
 /* ─────────────────────────────────────────────────────────────────────────────
-   JADE ACCENT LINE — decorative left border on sections
+   JADE ACCENT LINE, decorative left border on sections
 ───────────────────────────────────────────────────────────────────────────── */
 .jade-accent-left {
   border-left: 2px solid var(--col-jade);

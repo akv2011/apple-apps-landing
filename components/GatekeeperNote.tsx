@@ -73,7 +73,7 @@ export default function GatekeeperNote() {
                 lineHeight: 1.5,
               }}
             >
-              A quick, one-time step — macOS remembers your choice.
+              A quick, one-time step, macOS remembers your choice.
             </p>
           </div>
         </div>
@@ -214,7 +214,7 @@ export default function GatekeeperNote() {
             <span style={{ color: "var(--col-text)", fontWeight: 500 }}>
               You only need to do this once.
             </span>{" "}
-            Source code for both apps is publicly available on GitHub — you are
+            Source code for both apps is publicly available on GitHub, you are
             welcome to audit it before running anything.
           </p>
         </div>

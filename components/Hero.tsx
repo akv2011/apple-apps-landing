@@ -136,7 +136,7 @@ export default function Hero() {
                 lineHeight: 1.2,
               }}
             >
-              Aniket
+              Arunkumar V
             </p>
             <p
               style={{

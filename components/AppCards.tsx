@@ -246,13 +246,13 @@ export default function AppCards() {
       </div>
 
       <div className="cards-grid">
-        {/* Card A — Humanizer */}
+        {/* Card A, Humanizer */}
         <AppCard
           letter="H"
           iconClass="app-icon-h"
           name="Humanizer"
           tagline="Make your writing sound like you again."
-          description="Humanizer detects AI-generated text with a locally-running MLX model on Apple Silicon, then rewrites it in a natural human voice using Apple's on-device Foundation Models (Apple Intelligence). Processing happens entirely on your Mac — your words never touch a server."
+          description="Humanizer detects AI-generated text with a locally-running MLX model on Apple Silicon, then rewrites it in a natural human voice using Apple's on-device Foundation Models (Apple Intelligence). Processing happens entirely on your Mac, your words never touch a server."
           badges={[
             { label: "Swift 6", accent: true },
             { label: "SwiftUI" },
@@ -269,7 +269,7 @@ export default function AppCards() {
           animDelay="0.55s"
         />
 
-        {/* Card B — Voice_ */}
+        {/* Card B, Voice_ */}
         <AppCard
           letter="V_"
           iconClass="app-icon-v"
@@ -328,7 +328,7 @@ export default function AppCards() {
             Zero network requests.
           </strong>{" "}
           Both apps are sandboxed macOS applications. No telemetry, no analytics,
-          no accounts. Your data stays on your Mac — permanently.
+          no accounts. Your data stays on your Mac, permanently.
         </p>
       </div>
     </section>

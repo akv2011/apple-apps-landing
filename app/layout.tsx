@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Aniket — Native macOS Apps",
+  title: "Arunkumar V, Native macOS Apps",
   description:
     "Two native macOS applications built with Swift 6, SwiftUI, and on-device machine learning. Privacy-first software that never sends your data to the cloud.",
   keywords: [
@@ -17,9 +17,9 @@ export const metadata: Metadata = {
     "MLX",
     "WhisperKit",
   ],
-  authors: [{ name: "Aniket" }],
+  authors: [{ name: "Arunkumar V" }],
   openGraph: {
-    title: "Aniket — Native macOS Apps",
+    title: "Arunkumar V, Native macOS Apps",
     description:
       "Privacy-first macOS apps built with Swift 6 & on-device machine learning.",
     type: "website",
@@ -46,8 +46,8 @@ export default function RootLayout({
           href="https://fonts.gstatic.com"
           crossOrigin="anonymous"
         />
-        {/* Display font: Fraunces — variable serif with optical sizing */}
-        {/* Body font: Inter Tight — refined humanist sans */}
+        {/* Display font: Fraunces, variable serif with optical sizing */}
+        {/* Body font: Inter Tight, refined humanist sans */}
         <link
           href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap"
           rel="stylesheet"
